@@ -46,6 +46,7 @@ MonkeyRun aims to revolutionize the gaming experience by integrating Web3 techno
 
 - **Backend:**
   - **Aptos SDK**: Provides tools for interacting with the Aptos blockchain from the frontend.
+  - **Unity SDK**: Provides templates and objects required for the game.
 
 ## Installation and Setup
 
