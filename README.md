@@ -36,7 +36,6 @@ MonkeyRun aims to revolutionize the gaming experience by integrating Web3 techno
 
 - **Blockchain:**
   - **Aptos**: A scalable and secure Layer 1 blockchain providing the foundation for transactions and smart contracts.
-  - **Move**: The programming language used for developing secure and efficient smart contracts on Aptos.
 
 - **Frontend:**
   - **Next.js**: A React framework used for building server-side rendered applications.
