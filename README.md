@@ -79,3 +79,4 @@ MonkeyRun aims to revolutionize the gaming experience by integrating Web3 techno
    - Connect your Aptos wallet to the application.
    - Ensure you have at least 0.1 APT tokens on the Aptos testnet.
    - Start playing and enjoy!
+   - Use Keys <kbd>A</kbd> & <kbd>D</kbd> for movement.
