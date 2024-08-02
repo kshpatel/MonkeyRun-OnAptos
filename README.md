@@ -48,7 +48,7 @@ MonkeyRun aims to revolutionize the gaming experience by integrating Web3 techno
   - **Unity SDK**: Provides templates and objects required for the game.
 
 ## Demo
-https://github.com/user-attachments/assets/2aad241c-ec42-480d-b421-746e23ad1880
+![Demo](https://github.com/user-attachments/assets/2aad241c-ec42-480d-b421-746e23ad1880)
 
 ## Installation and Setup
 
