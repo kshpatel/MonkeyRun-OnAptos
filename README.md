@@ -50,6 +50,9 @@ MonkeyRun aims to revolutionize the gaming experience by integrating Web3 techno
 ## Demo
 ![Demo](https://github.com/user-attachments/assets/2aad241c-ec42-480d-b421-746e23ad1880)
 
+## Web Application link
+Can't deploy as the repo is > 100mb, Services like Vercel, Render are rejecting this repo.
+
 ## Installation and Setup
 
 *Prerequisites:*
